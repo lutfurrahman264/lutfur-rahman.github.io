@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menu ul{
+	font-family: fantasy;
+	display: inline-flex;
+	margin: 50px;
+} 
+.menu ul li{
+	list-style: none;
+	margin: 0 20 px;
+	color: #fff;
+	cursor: pointer;
+	word-spacing: normal;
+}
+.logo img{
+	width: 120px ;
+	margin-top: -5px;
+	margin-right: 48px;
+}
+.banner{
+	width: 80%;
+	height: 70%;
+	top: 25%;
+	left: 130px;
+	position: absolute;
+	color: #367588;
+}
+.app-text{
+	width: 50%;
+	float: left;
+}
+.app-text h1{
+	font-size: 43px;
+	width: 620px;
+	position: relative;
+	margin-left: 43px;
+	font-family: monospace;
+}
+.app-text p{
+	font-family: initial;
+	width: 650px;
+	font-size: 15px;
+	margin: 30px 0 30px 50px;
+	line-height: 25px;
+	color:#215D6E;
+}
+.app-picture{
+	width: 40%;
+	float: right ;
+}
+.app-picture img{
+	width: 75%;
+}
+.social-icons{
+	width: 30px;
+	right: -110px;
+	bottom: 0;
+	position: absolute;
+	text-align: center;
+	display: inline-grid;
+}
+.social-icons .fa{
+	padding: 4px 0;
+	font-size: 30px;
+	cursor: pointer;
+}
+*/
